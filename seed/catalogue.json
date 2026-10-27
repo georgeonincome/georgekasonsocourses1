@@ -1,0 +1,946 @@
+[
+  {
+    "slug": "learn-to-earn",
+    "title": "Learn to Earn: Your First $100 Online",
+    "subtitle": null,
+    "description": "You already have a skill. You just don't know how to sell it. This is the course that turns what you can do into money in your first week — the exact path George used to make his first $100 in three days during COVID.",
+    "price": 30000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "freelancing",
+    "level": "beginner",
+    "durationMinutes": 240,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": true,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — Money Lives in People",
+        "lessons": [
+          "Why degrees stopped guaranteeing pay, and what still does",
+          "The three kinds of money: a job, a skill, an audience",
+          "Auditing what you can already do",
+          "Choosing the one skill to lead with"
+        ]
+      },
+      {
+        "title": "Module 2 — Positioning",
+        "lessons": [
+          "Who you are helps nobody. What you do for whom does.",
+          "Writing a positioning line a stranger repeats",
+          "The skill-to-outcome translation",
+          "Fixing a weak offer in one hour"
+        ]
+      },
+      {
+        "title": "Module 3 — Proof",
+        "lessons": [
+          "Showing work before you have clients",
+          "Building a portfolio in a weekend",
+          "Testimonials: asking, without begging",
+          "Using your results as the headline"
+        ]
+      },
+      {
+        "title": "Module 4 — Finding the First Client",
+        "lessons": [
+          "Where the first ten clients actually come from",
+          "The message that gets replies",
+          "Following up without being annoying",
+          "Pricing your first three jobs"
+        ]
+      },
+      {
+        "title": "Module 5 — Delivering So They Come Back",
+        "lessons": [
+          "Writing an offer that is easy to say yes to",
+          "Onboarding a client without hand-holding",
+          "Getting the testimonial you can publish",
+          "Turning one client into a retainer"
+        ]
+      },
+      {
+        "title": "Module 6 — The 100K-by-2030 Plan",
+        "lessons": [
+          "Turning one skill into a product",
+          "Writing and selling an ebook",
+          "Building a small group around your work",
+          "Your next 90 days"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ai-tool-mastery",
+    "title": "AI Tool Mastery: Work Faster With AI",
+    "subtitle": null,
+    "description": "ChatGPT, Claude, Canva AI, Notion AI and the rest — used on real work, not demos. Build the prompts that write your emails, draft your posts and research your market while you do the thinking that actually needs a human.",
+    "price": 45000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "ai",
+    "level": "beginner",
+    "durationMinutes": 210,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": true,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — Talking to AI Properly",
+        "lessons": [
+          "Why your first prompt failed",
+          "Role, context, format: the three-part prompt",
+          "Iterating instead of restarting",
+          "Saving prompts that work"
+        ]
+      },
+      {
+        "title": "Module 2 — AI for Work",
+        "lessons": [
+          "Emails, proposals and client replies",
+          "Summarising a 40-page document in 30 seconds",
+          "Building a spreadsheet you can trust",
+          "Turning notes into a published post"
+        ]
+      },
+      {
+        "title": "Module 3 — AI for Business",
+        "lessons": [
+          "Customer research in an afternoon",
+          "Pricing and offer ideas worth testing",
+          "Writing sales pages and ad copy",
+          "A content calendar that keeps itself"
+        ]
+      },
+      {
+        "title": "Module 4 — AI for Creation",
+        "lessons": [
+          "Canva AI and image generation you own",
+          "Video scripting and editing shortcuts",
+          "Audio, transcription and repurposing",
+          "Building a system that repeats itself"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "copywriting-that-sells",
+    "title": "Copywriting That Sells",
+    "subtitle": null,
+    "description": "The skill behind every ad that works and every page that sells. Write headlines people read, offers people want, and emails people open — then test which version wins.",
+    "price": 40000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "marketing",
+    "level": "intermediate",
+    "durationMinutes": 180,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — Why Most Copy Fails",
+        "lessons": [
+          "Your customer is not thinking about your product",
+          "The three questions every buyer asks",
+          "Feature vs. outcome, with examples",
+          "Reading one page like a customer"
+        ]
+      },
+      {
+        "title": "Module 2 — Headlines",
+        "lessons": [
+          "Twelve headline patterns that pull the eye",
+          "Specific beats clever",
+          "Writing five headlines, keeping one",
+          "Subject lines for email"
+        ]
+      },
+      {
+        "title": "Module 3 — Offers",
+        "lessons": [
+          "The value stack",
+          "Pricing language that anchors high",
+          "Guarantees and risk reversal",
+          "Scarcity that is true"
+        ]
+      },
+      {
+        "title": "Module 4 — Persuasion",
+        "lessons": [
+          "Story, problem, agitate, resolve",
+          "Objections, handled",
+          "Social proof that reads as real",
+          "Calls to action that ask for one thing"
+        ]
+      },
+      {
+        "title": "Module 5 — Testing and Improving",
+        "lessons": [
+          "What to test first",
+          "Reading the numbers",
+          "When to stop testing",
+          "Building a swipe file"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "facebook-ads-that-convert",
+    "title": "Facebook & Instagram Ads That Convert",
+    "subtitle": null,
+    "description": "Run ads that make money instead of burning it. Targeting, creative testing, budget control and reading the numbers — for the businesses of Lusaka and beyond, on small budgets.",
+    "price": 60000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "marketing",
+    "level": "intermediate",
+    "durationMinutes": 200,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — Before You Spend Anything",
+        "lessons": [
+          "Is an ad right for you yet?",
+          "The offer an ad needs",
+          "Setting the maths of a profitable ad"
+        ]
+      },
+      {
+        "title": "Module 2 — Setting Up the Account",
+        "lessons": [
+          "Business Manager, pixel and events",
+          "Tracking what actually matters",
+          "Naming campaigns so you can read them later"
+        ]
+      },
+      {
+        "title": "Module 3 — Targeting",
+        "lessons": [
+          "Broad, interest and lookalike audiences",
+          "When narrow beats broad",
+          "Excluding people who waste money",
+          "Retargeting people who already know you"
+        ]
+      },
+      {
+        "title": "Module 4 — Creative",
+        "lessons": [
+          "The image and the hook",
+          "Testing headlines, not redesigning everything",
+          "Video length and format",
+          "Reading comments for insight"
+        ]
+      },
+      {
+        "title": "Module 5 — Budget and Results",
+        "lessons": [
+          "Daily vs lifetime budget",
+          "What to do at 100 link clicks",
+          "Reading the numbers without panicking",
+          "Scaling, cutting and stopping"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "course-creation-blueprint",
+    "title": "Course Creation Blueprint",
+    "subtitle": null,
+    "description": "Turn what you know into a course people pay for. Structure, recording, packaging, pricing and launching — including the decision about self-hosting versus a platform, and the truth about how much work a course really is.",
+    "price": 50000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "product-building",
+    "level": "intermediate",
+    "durationMinutes": 220,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — Is a Course Right?",
+        "lessons": [
+          "The three things a course needs",
+          "Audience, outcome and proof",
+          "When an ebook or a workshop is better"
+        ]
+      },
+      {
+        "title": "Module 2 — Structure",
+        "lessons": [
+          "The outcome, in one sentence",
+          "Modules that build on each other",
+          "Lesson length that respects attention",
+          "A workbook, not just videos"
+        ]
+      },
+      {
+        "title": "Module 3 — Recording",
+        "lessons": [
+          "Camera, lighting and sound on a budget",
+          "One take, no flailing",
+          "Screen recordings that are watchable",
+          "Editing without disappearing for a week"
+        ]
+      },
+      {
+        "title": "Module 4 — Packaging and Launch",
+        "lessons": [
+          "The sales page",
+          "Pricing, tiers and payment plans",
+          "Launching to a list that exists",
+          "Live launch vs. evergreen"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ebook-creation-blueprint",
+    "title": "Ebook Creation: Publish and Sell Your Knowledge",
+    "subtitle": null,
+    "description": "Write a book about what you know and sell it. Word by word, this is how George built a library of 54 ebooks — and how you can publish your first one, sell it, and use it to sell your bigger offer.",
+    "price": 25000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "product-building",
+    "level": "beginner",
+    "durationMinutes": 150,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — The Book You Can Write",
+        "lessons": [
+          "Start with what people already ask you",
+          "One book, one promise",
+          "The outline you can finish"
+        ]
+      },
+      {
+        "title": "Module 2 — Writing Daily",
+        "lessons": [
+          "Writing in the time you actually have",
+          "Getting past the first page",
+          "Editing your own work",
+          "A deadline that works"
+        ]
+      },
+      {
+        "title": "Module 3 — Publishing",
+        "lessons": [
+          "Formatting without a designer",
+          "Cover art that is not stock",
+          "PDF, EPUB and print",
+          "Metadata that gets found"
+        ]
+      },
+      {
+        "title": "Module 4 — Selling",
+        "lessons": [
+          "Where to sell and how much it costs",
+          "Pricing from K70 upward",
+          "Getting your first ten sales",
+          "Bundling into a higher-value offer"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "canva-graphic-design",
+    "title": "Canva & Graphic Design Essentials",
+    "subtitle": null,
+    "description": "Design that looks professional without a design degree. Layout, colour, type and the Canva workflow — from a blank page to social posts, presentations and ebook covers you are happy to publish.",
+    "price": 20000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "design",
+    "level": "beginner",
+    "durationMinutes": 160,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — How Design Works",
+        "lessons": [
+          "Hierarchy: what the eye reads first",
+          "Space, and why it does the work",
+          "The grid you do not need to draw"
+        ]
+      },
+      {
+        "title": "Module 2 — Colour and Type",
+        "lessons": [
+          "A palette that works",
+          "Pairing two fonts, not five",
+          "Contrast and legibility",
+          "The colours that make people trust you"
+        ]
+      },
+      {
+        "title": "Module 3 — Canva in Practice",
+        "lessons": [
+          "Brand Kit, templates and shortcuts",
+          "Social posts in a repeatable format",
+          "Presentations that hold attention",
+          "Ebook and PDF covers"
+        ]
+      },
+      {
+        "title": "Module 4 — Your Own System",
+        "lessons": [
+          "Building a template library",
+          "Working from a brief",
+          "Feedback, and taking it well",
+          "A portfolio that shows range"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "wordpress-web-design",
+    "title": "WordPress Web Design: Sites That Sell",
+    "subtitle": null,
+    "description": "Build a website that loads fast, looks right on a phone, and converts visitors into enquiries. Hosting, themes, the page builder, speed, forms and the SEO basics that matter.",
+    "price": 65000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "web-design",
+    "level": "intermediate",
+    "durationMinutes": 240,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": true,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — Choosing and Buying",
+        "lessons": [
+          "Domain and hosting, without overspending",
+          "Why a page builder and not a builder site",
+          "Setting up staging and backups"
+        ]
+      },
+      {
+        "title": "Module 2 — Building the Site",
+        "lessons": [
+          "Pages a client actually needs",
+          "The page builder, from blank to layout",
+          "Navigation that does not need a label to explain",
+          "Mobile-first, not an afterthought"
+        ]
+      },
+      {
+        "title": "Module 3 — Making It Fast",
+        "lessons": [
+          "Images, and where the seconds go",
+          "Caching and caching plugins",
+          "Measuring before and after"
+        ]
+      },
+      {
+        "title": "Module 4 — Turning Visits Into Enquiries",
+        "lessons": [
+          "Contact forms that work",
+          "WhatsApp and click-to-call buttons",
+          "Basic on-page SEO",
+          "Analytics you will actually read"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "computer-digital-literacy",
+    "title": "Computer & Digital Literacy",
+    "subtitle": null,
+    "description": "From never having used a laptop to working confidently on one. Files and folders, typing without looking, the internet and email, Word, spreadsheets, Google Workspace, and staying safe from scams.",
+    "price": 15000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "computer-skills",
+    "level": "beginner",
+    "durationMinutes": 180,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — The Machine",
+        "lessons": [
+          "Parts of a computer, in plain language",
+          "Files, folders and where things go",
+          "Installing and removing programs",
+          "Keeping it running fast"
+        ]
+      },
+      {
+        "title": "Module 2 — Typing and Documents",
+        "lessons": [
+          "Typing properly and fast",
+          "Word: documents that look right",
+          "Formatting without fighting the software",
+          "Printing and sharing a PDF"
+        ]
+      },
+      {
+        "title": "Module 3 — The Internet and Email",
+        "lessons": [
+          "Searching properly, and spotting a bad result",
+          "Email that gets a reply",
+          "Attachments, links and attachments of links",
+          "Accounts, passwords and two-factor"
+        ]
+      },
+      {
+        "title": "Module 4 — Office and Online Tools",
+        "lessons": [
+          "Spreadsheets that do not break",
+          "Docs, Sheets and Slides",
+          "Video calls that do not embarrass you",
+          "Staying safe: scams, fake news and backups"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "content-creation",
+    "title": "Content Creation: Make It Once, Earn From It",
+    "subtitle": null,
+    "description": "One good piece of content can sell for years. Plan a calendar, film without fear, edit fast, and build a library that works for you while you sleep.",
+    "price": 35000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "content-creation",
+    "level": "beginner",
+    "durationMinutes": 200,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — Finding Your Angle",
+        "lessons": [
+          "What you know that they do not",
+          "One format, done well",
+          "The idea bank: never start blank"
+        ]
+      },
+      {
+        "title": "Module 2 — Planning",
+        "lessons": [
+          "A content calendar that survives",
+          "Hooks that earn the first three seconds",
+          "Batching: making a month in a day"
+        ]
+      },
+      {
+        "title": "Module 3 — Creating",
+        "lessons": [
+          "Filming with what you own",
+          "Sound matters more than camera",
+          "Editing quickly with free tools",
+          "Captions and accessibility"
+        ]
+      },
+      {
+        "title": "Module 4 — Growing and Earning",
+        "lessons": [
+          "Which platform fits your offer",
+          "Repurposing one piece into five",
+          "Growing a list you own",
+          "Turning attention into income"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "virtual-assistance-masterclass",
+    "title": "Virtual Assistance Masterclass",
+    "subtitle": null,
+    "description": "Turn organisational skill into paid remote work. What clients actually buy, the free tools that do the job, how to package yourself, and how to land your first client without a CV.",
+    "price": 70000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "virtual-assistance",
+    "level": "beginner",
+    "durationMinutes": 260,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": true,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — What a VA Actually Does",
+        "lessons": [
+          "The eight services clients buy today",
+          "What clients value vs. what people assume",
+          "Deciding your service list"
+        ]
+      },
+      {
+        "title": "Module 2 — The Free Toolkit",
+        "lessons": [
+          "Gmail and Google Workspace, set up properly",
+          "WhatsApp Business for client work",
+          "Canva, Notion and Trello for delivery",
+          "Scheduling and reporting tools"
+        ]
+      },
+      {
+        "title": "Module 3 — Packaging Yourself",
+        "lessons": [
+          "The one-line offer",
+          "A portfolio with no clients in it",
+          "Rates, packages and retainers",
+          "Writing proposals that win"
+        ]
+      },
+      {
+        "title": "Module 4 — Landing the First Client",
+        "lessons": [
+          "Where the first three clients come from",
+          "The outreach message",
+          "Handling a trial task",
+          "Turning a one-off into a retainer"
+        ]
+      },
+      {
+        "title": "Module 5 — Building a Real Business",
+        "lessons": [
+          "Onboarding, delivery and invoicing systems",
+          "SOPs that let you take a holiday",
+          "Going from freelancer to agency",
+          "Pricing for growth"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "social-media-management",
+    "title": "Social Media Management With AI",
+    "subtitle": null,
+    "description": "Run accounts for other people, or run your own properly. Content planning, the tools that make it manageable, reporting that makes clients stay, and the system behind a busy calendar.",
+    "price": 40000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "marketing",
+    "level": "beginner",
+    "durationMinutes": 190,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — The Job",
+        "lessons": [
+          "What a social media manager is paid to do",
+          "Managing one account or twenty",
+          "Building a service you can price"
+        ]
+      },
+      {
+        "title": "Module 2 — Strategy and Calendar",
+        "lessons": [
+          "Reading an account in ten minutes",
+          "Content pillars that work",
+          "A month planned in ninety minutes"
+        ]
+      },
+      {
+        "title": "Module 3 — Creating at Volume",
+        "lessons": [
+          "Templates and batching",
+          "AI-assisted captions, checked by you",
+          "Design that stays on-brand",
+          "Scheduling without the panic"
+        ]
+      },
+      {
+        "title": "Module 4 — Reporting and Retention",
+        "lessons": [
+          "The report clients read",
+          "Tie your work to a business result",
+          "Proposals and renewals",
+          "Growing from one client to five"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "graphic-design-bootcamp",
+    "title": "Graphic Design Bootcamp: From Brief to Brand",
+    "subtitle": null,
+    "description": "Work through real briefs — a logo, a poster, a brand kit, a campaign — and learn the process professionals use: research, sketches, concepts, refinement, delivery.",
+    "price": 55000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "design",
+    "level": "intermediate",
+    "durationMinutes": 230,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — Reading a Brief",
+        "lessons": [
+          "What the client actually wants",
+          "Questions to ask before you draw",
+          "Scope, price and timing"
+        ]
+      },
+      {
+        "title": "Module 2 — Research and Concept",
+        "lessons": [
+          "Auditing what exists",
+          "Moodboards and visual direction",
+          "Sketching options, not one idea",
+          "Getting feedback that helps"
+        ]
+      },
+      {
+        "title": "Module 3 — Execution",
+        "lessons": [
+          "Typography and layout in depth",
+          "Colour, contrast and print vs screen",
+          "Preparing artwork for print and for screen",
+          "Working with a printer"
+        ]
+      },
+      {
+        "title": "Module 4 — Delivery and Repeat Work",
+        "lessons": [
+          "Files, formats and handovers",
+          "Brand kits and templates",
+          "Retainers and repeat clients",
+          "Pricing design work properly"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "freelancing-workshop",
+    "title": "The Freelancing Workshop",
+    "subtitle": null,
+    "description": "How to work for yourself without the feast-and-famine. Contracts, invoices, taxes, saving, and the systems that keep you paid when a client goes quiet.",
+    "price": 35000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "freelancing",
+    "level": "all-levels",
+    "durationMinutes": 170,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — Choosing Your Shape",
+        "lessons": [
+          "Solo, product, or team",
+          "One skill versus a bundle",
+          "The income you can plan around"
+        ]
+      },
+      {
+        "title": "Module 2 — Getting Clients",
+        "lessons": [
+          "Your profile that gets replies",
+          "Outreach that is not spam",
+          "Platforms worth your time"
+        ]
+      },
+      {
+        "title": "Module 3 — The Money",
+        "lessons": [
+          "Pricing by project and by hour",
+          "Retainers and repeat income",
+          "Invoices, receipts and getting paid on time",
+          "Money set aside for tax"
+        ]
+      },
+      {
+        "title": "Module 4 — Staying Employed by Yourself",
+        "lessons": [
+          "A weekly routine that works",
+          "Saying no without burning bridges",
+          "Dealing with a difficult client",
+          "Growing without hiring yet"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "meta-ads-mastery",
+    "title": "Meta Ads Mastery",
+    "subtitle": null,
+    "description": "The deeper Meta advertising course: pixel and CAPI, conversion tracking that survives iOS, creative testing at scale, and reading a media buyer’s numbers.",
+    "price": 70000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "marketing",
+    "level": "advanced",
+    "durationMinutes": 210,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Module 1 — Tracking That Works",
+        "lessons": [
+          "Pixel, Conversions API and deduplication",
+          "Events that map to money",
+          "Attribution you can trust"
+        ]
+      },
+      {
+        "title": "Module 2 — Account Structure",
+        "lessons": [
+          "Campaign structure that scales",
+          "Budgets across the funnel",
+          "Exclusions and the learning phase"
+        ]
+      },
+      {
+        "title": "Module 3 — Creative at Scale",
+        "lessons": [
+          "The creative testing matrix",
+          "Hooks, bodies and formats",
+          "Reading comments and click-through rates",
+          "Culling losers without panic"
+        ]
+      },
+      {
+        "title": "Module 4 — Scaling and Profit",
+        "lessons": [
+          "When to raise budgets",
+          "Scaling through creative, not targeting",
+          "Retargeting and retention economics",
+          "Reporting to a client"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "web-design-classes",
+    "title": "Web Design Classes: WordPress from Zero to Live",
+    "subtitle": null,
+    "description": "A structured, cohort-style path through web design. We build a real client site together, from domain to enquiry form, with a site to show at the end.",
+    "price": 55000,
+    "compareAtPrice": null,
+    "currency": "ZMW",
+    "image": null,
+    "images": [],
+    "category": "web-design",
+    "level": "beginner",
+    "durationMinutes": 220,
+    "sourceSlug": null,
+    "sourceUrl": null,
+    "isPublished": true,
+    "isFeatured": false,
+    "enrollmentCount": 0,
+    "curriculum": [
+      {
+        "title": "Session 1 — How the Web Works",
+        "lessons": [
+          "Domains, hosting and how a site is served",
+          "The anatomy of a page",
+          "Setting up your first site"
+        ]
+      },
+      {
+        "title": "Session 2 — Building Pages",
+        "lessons": [
+          "Page builder basics",
+          "Headers, sections and footers",
+          "Menus and navigation"
+        ]
+      },
+      {
+        "title": "Session 3 — Making It Look Right",
+        "lessons": [
+          "Colour, type and spacing",
+          "Responsive layout",
+          "Images that load fast"
+        ]
+      },
+      {
+        "title": "Session 4 — Making It Work",
+        "lessons": [
+          "Contact and enquiry forms",
+          "Basic SEO and metadata",
+          "Publishing, and what to check first"
+        ]
+      },
+      {
+        "title": "Session 5 — Your Client Site",
+        "lessons": [
+          "Brief, wireframe and build",
+          "Feedback and revision",
+          "Handover, and how to charge for it"
+        ]
+      }
+    ]
+  }
+]

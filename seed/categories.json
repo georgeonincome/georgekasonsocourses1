@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "ai",
+    "name": "AI & Automation",
+    "icon": "🤖",
+    "position": 0
+  },
+  {
+    "slug": "marketing",
+    "name": "Digital Marketing & Ads",
+    "icon": "📣",
+    "position": 1
+  },
+  {
+    "slug": "freelancing",
+    "name": "Freelancing & Clients",
+    "icon": "💼",
+    "position": 2
+  },
+  {
+    "slug": "design",
+    "name": "Graphic Design & Canva",
+    "icon": "🎨",
+    "position": 3
+  },
+  {
+    "slug": "web-design",
+    "name": "Web Design & WordPress",
+    "icon": "💻",
+    "position": 4
+  },
+  {
+    "slug": "computer-skills",
+    "name": "Computer & Digital Literacy",
+    "icon": "🖥️",
+    "position": 5
+  },
+  {
+    "slug": "content-creation",
+    "name": "Content Creation",
+    "icon": "🎬",
+    "position": 6
+  },
+  {
+    "slug": "virtual-assistance",
+    "name": "Virtual Assistance",
+    "icon": "📮",
+    "position": 7
+  },
+  {
+    "slug": "product-building",
+    "name": "Courses & Ebooks",
+    "icon": "🏗️",
+    "position": 8
+  }
+]

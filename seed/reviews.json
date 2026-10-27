@@ -1,0 +1,146 @@
+[
+  {
+    "courseSlug": "learn-to-earn",
+    "authorName": "Mwansa Chiluba",
+    "authorRole": "Freelance writer, Lusaka",
+    "rating": 5,
+    "title": "I finally knew what to sell",
+    "content": "I have been told I am good with words for years, but I could not turn that into a single invoice. Module 2 — the positioning hour — was worth the whole course on its own. I rewrote what I offer in one sitting and had two enquiries in the following fortnight.",
+    "isFeatured": true
+  },
+  {
+    "courseSlug": "learn-to-earn",
+    "authorName": "Banda Chileshe",
+    "authorRole": "Accountant, Kitwe",
+    "rating": 5,
+    "title": "The module on proof changed my CV",
+    "content": "I took the course over two evenings because it was recorded. The part on showing work before you have clients made me build a small portfolio of three things I had already done for the company I work for. That is now the first thing on my CV and the first thing I mention.",
+    "isFeatured": true
+  },
+  {
+    "courseSlug": "learn-to-earn",
+    "authorName": "Nana Phiri",
+    "authorRole": "Boda operator, Chingola",
+    "rating": 4,
+    "title": "Started small, on purpose",
+    "content": "I did not buy the course expecting a business overnight, and the course never promises that. What it did was give me a script for the first conversation. I now offer basic bookkeeping setup to the other operators here, in the evenings, and it has become steady work rather than a one-off.",
+    "isFeatured": true
+  },
+  {
+    "courseSlug": "ai-tool-mastery",
+    "authorName": "Musonda Kabaso",
+    "authorRole": "Content lead, Lusaka",
+    "rating": 5,
+    "title": "Cut a full day out of my week",
+    "content": "The prompt module alone was worth it — role, context, format. I use the same structure for research, for drafting and for the weekly summary I used to write from scratch. It is a tool I actually use every day, not one I watched once.",
+    "isFeatured": true
+  },
+  {
+    "courseSlug": "ai-tool-mastery",
+    "authorName": "Sishuwa Mumba",
+    "authorRole": "Small business owner, Livingstone",
+    "rating": 5,
+    "title": "The section on AI for business",
+    "content": "I have no marketing department, so Module 3 is the one I live in. The customer research session gave me a list of the twelve questions my customers actually ask, and I now build my content calendar from it instead of guessing.",
+    "isFeatured": true
+  },
+  {
+    "courseSlug": "copywriting-that-sells",
+    "authorName": "Chanda Mwape",
+    "authorRole": "Marketing assistant, Ndola",
+    "rating": 5,
+    "title": "Headlines I can use on Monday",
+    "content": "The twelve headline patterns gave me a starting point every time I sit down to write. I write five, keep one, and ship — which is more than I managed in a month before. The offer module changed how I write our price page.",
+    "isFeatured": true
+  },
+  {
+    "courseSlug": "copywriting-that-sells",
+    "authorName": "Grace Zulu",
+    "authorRole": "Founder, small clothing label",
+    "rating": 4,
+    "title": "More useful than I expected",
+    "content": "I came for the email module and stayed for the objections one. Handling the 'is it worth it' question in the copy instead of in the comment section saved me a lot of back and forth. I would like a little more on long-form sales pages.",
+    "isFeatured": false
+  },
+  {
+    "courseSlug": "facebook-ads-that-convert",
+    "authorName": "Mubanga Sakala",
+    "authorRole": "E-commerce owner, Lusaka",
+    "rating": 4,
+    "title": "Finally understood my own numbers",
+    "content": "I had been running ads for two years on instinct. The budget module and the section on what to do at a hundred link clicks made sense of what had been happening to my money. I now know which campaigns earn and which I was running because I hoped.",
+    "isFeatured": false
+  },
+  {
+    "courseSlug": "wordpress-web-design",
+    "authorName": "Kabwe Nachula",
+    "authorRole": "Freelance web designer, Ndola",
+    "rating": 5,
+    "title": "The speed module changed my quotes",
+    "content": "Building the site is the easy part — knowing why the page was slow was the gap. After the caching session my client's site went from eleven seconds to under three, and that became the reason I could charge what the site was worth.",
+    "isFeatured": false
+  },
+  {
+    "courseSlug": "wordpress-web-design",
+    "authorName": "Nakambwe Kalaba",
+    "authorRole": "NGO communications officer, Kasama",
+    "rating": 5,
+    "title": "I built the site we needed",
+    "content": "We needed a simple site for the project and could not afford an agency. I followed the classes and built it over two weekends. The forms module is the one I am proudest of, because that is how the enquiries arrive.",
+    "isFeatured": false
+  },
+  {
+    "courseSlug": "canva-graphic-design",
+    "authorName": "Mwepu Chileshe",
+    "authorRole": "Administrator, Kabwe",
+    "rating": 4,
+    "title": "Design finally makes sense",
+    "content": "I could never get the spacing right until the hierarchy session showed me why it looked wrong. My workshop flyers now look like they were made by someone who does this for a living, which is still me.",
+    "isFeatured": false
+  },
+  {
+    "courseSlug": "computer-digital-literacy",
+    "authorName": "Kalusha Namangala",
+    "authorRole": "Office administrator, Mbala",
+    "rating": 5,
+    "title": "Started from never having used one",
+    "content": "I was the person at work who got asked to fix the computer and did not know how. The digital literacy course took me from that to running the shared drive and the monthly spreadsheet. I am no longer the person who gets asked to fix the computer.",
+    "isFeatured": false
+  },
+  {
+    "courseSlug": "content-creation",
+    "authorName": "Nakatindi Zulu",
+    "authorRole": "Community manager, Lusaka",
+    "rating": 4,
+    "title": "One piece, five uses",
+    "content": "The repurposing module is why I finished the course. I now take one recording and turn it into posts, a newsletter and a short — which means one afternoon of work fills a week of content. The hooks session helped more than I expected.",
+    "isFeatured": false
+  },
+  {
+    "courseSlug": "virtual-assistance-masterclass",
+    "authorName": "Chipukwa Mvula",
+    "authorRole": "Virtual assistant, Lusaka",
+    "rating": 5,
+    "title": "The client module did it",
+    "content": "I had the tools and no clients. The module on where the first three clients come from, and the outreach message in it, is what changed my month. I now work with two small businesses and set up their shared drives and inboxes the way the course showed.",
+    "isFeatured": false
+  },
+  {
+    "courseSlug": "social-media-management",
+    "authorName": "Mabika Tembo",
+    "authorRole": "Social media manager, Livingstone",
+    "rating": 5,
+    "title": "The calendar module saved me",
+    "content": "Ninety minutes to plan a month, then batching. My accounts stopped looking like they were posted at random, and I can show a client a whole month in one meeting, which is how I won the second contract.",
+    "isFeatured": false
+  },
+  {
+    "courseSlug": "course-creation-blueprint",
+    "authorName": "Mpande Simukonda",
+    "authorRole": "ICT teacher, Mongu",
+    "rating": 4,
+    "title": "Good, but do the homework",
+    "content": "The structure module made my own course notes into something with a beginning and an end. I would warn a first-time creator: the recording chapter is where most people give up. Budget two weekends, not one evening.",
+    "isFeatured": false
+  }
+]
